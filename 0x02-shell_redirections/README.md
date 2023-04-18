@@ -1,1 +1,1 @@
-Display the first 10 lines of /etc/passwd
+The file iacta will be in the working directory
